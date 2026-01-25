@@ -8,4 +8,5 @@
 [Web: yuxu.ge](https://yuxu.ge)            
 [LinkedIn: in/geyuxu](https://www.linkedin.com/in/geyuxu)            
 [Email: me@yuxu.ge](mailto:me@yuxu.ge)           
-[orcid.org/0009-0008-2990-4886](https://orcid.org/0009-0008-2990-4886)           
+[Orcid: 0009-0008-2990-4886](https://orcid.org/0009-0008-2990-4886)           
+[X: @YuxuGe_AI](https://x.com/YuxuGe_AI)
