@@ -5,4 +5,7 @@
 🛠️ **Stack:** Java (Expert), Spring AI, RAG, Elasticsearch, AWS.    
 🔭 **Research:** Explainable RAG Pipelines & Multi-Agent Systems.    
 
-[LinkedIn](https://www.linkedin.com/in/geyuxu) • [Email](mailto:yuxu.ge@outlook.com)
+[Web: yuxu.ge](https://yuxu.ge) 
+[LinkedIn: in/geyuxu](https://www.linkedin.com/in/geyuxu) 
+[Email: me@yuxu.ge](mailto:me@yuxu.ge)
+[orcid.org/0009-0008-2990-4886]([mailto:me@yuxu.ge](https://orcid.org/0009-0008-2990-4886))
